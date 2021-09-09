@@ -1,0 +1,23 @@
+.card{
+    .cover{
+        height:20vh;
+        width:100%;
+        background-color:red;
+        background-size:cover;
+        background-position: center;
+        
+    }
+    
+}
+
+.img-preview{
+    width:50vw;
+    height:50vh;
+    top:25vw;
+    left:25vw;
+    background-size:contain;
+    display: block;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: absolute;
+}
